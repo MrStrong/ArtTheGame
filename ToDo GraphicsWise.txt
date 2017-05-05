@@ -1,0 +1,14 @@
+Stuff to do
+
+High Priority:
+-Platform Graphic
+-End of Level graphic (level exit)
+
+
+
+Not Urgent
+-New Hearts for HP / Health Bar
+-Game Over Screen
+-Level Complete Screen
+-Minions
+-Level 2 temp graphic

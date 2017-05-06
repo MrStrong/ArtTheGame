@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Level.cpp" open="1" top="0" tabpos="14">
+		<Cursor position="1369" topLine="63" />
+	</File>
+	<File name="Level.h" open="1" top="0" tabpos="15">
+		<Cursor position="500" topLine="0" />
+	</File>
+	<File name="PlatformMED.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="778" topLine="0" />
+	</File>
+	<File name="PlatformMED.h" open="1" top="0" tabpos="3">
+		<Cursor position="401" topLine="6" />
+	</File>
+	<File name="exit.cpp" open="1" top="0" tabpos="12">
+		<Cursor position="1071" topLine="6" />
+	</File>
+	<File name="exit.h" open="1" top="0" tabpos="13">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="gameover.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="66" topLine="0" />
+	</File>
+	<File name="gameover.h" open="1" top="0" tabpos="11">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="machar.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="132" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="8">
+		<Cursor position="13756" topLine="416" />
+	</File>
+	<File name="mchar.h" open="1" top="0" tabpos="2">
+		<Cursor position="494" topLine="24" />
+	</File>
+	<File name="pausescreen.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="26" topLine="0" />
+	</File>
+	<File name="pausescreen.h" open="1" top="0" tabpos="7">
+		<Cursor position="0" topLine="2" />
+	</File>
+	<File name="titlescreen.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="2384" topLine="67" />
+	</File>
+	<File name="titlescreen.h" open="1" top="0" tabpos="6">
+		<Cursor position="207" topLine="5" />
+	</File>
+</CodeBlocks_layout_file>
